@@ -1,0 +1,12 @@
+{
+  "name": "langchain-producthunt-retrieval-demo",
+  "scripts": {
+    "dev":"bun app.js"
+  },
+  "dependencies": {
+    "@langchain/community": "^0.0.50",
+    "@langchain/openai": "^0.0.28",
+    "cheerio": "^1.0.0-rc.12",
+    "langchain": "^0.1.34"
+  }
+}
