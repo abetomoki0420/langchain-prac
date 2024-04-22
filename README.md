@@ -1,1 +1,1 @@
-[Quickstart](https://js.langchain.com/docs/get_started/quickstart)
+勉強のために [Quickstart](https://js.langchain.com/docs/get_started/quickstart) の内容を手直ししながらローカルで動かすところまで実施した。
